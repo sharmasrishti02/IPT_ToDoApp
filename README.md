@@ -2,12 +2,6 @@
 
 IPT Project
 
-#### Build with
-
-   1. [Django](https://www.djangoproject.com/)
-   2. [Jquery](https://code.jquery.com/)
-   3. [Materializecss](https://materializecss.com)
-
 ### Features
 
 I this appliction you create your user and store your task in list formate
